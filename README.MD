@@ -1,12 +1,12 @@
-# Logo.surf - Text to Logo & Favicon Generator
+# texttologo - Text to Logo & Favicon Generator
 
-[![Logo.surf Preview](./assets/logo.surf.preview.png)](https://www.logo.surf)
+[![texttologo Preview](./assets/texttologo.preview.png)](https://www.texttologo)
 
-[Visit Logo.surf](https://www.logo.surf)
+[Visit texttologo](https://www.texttologo)
 
 > **Note**: This project is primarily developed using AI-generated code. While this approach allows for rapid development and innovative solutions, we encourage users and contributors to review and validate the code as needed.
 
-Logo.surf is a free, user-friendly tool that allows you to quickly generate professional logos and favicons from text. Perfect for developers, designers, and anyone looking to create a simple yet effective brand identity.
+texttologo is a free, user-friendly tool that allows you to quickly generate professional logos and favicons from text. Perfect for developers, designers, and anyone looking to create a simple yet effective brand identity.
 
 ## Features
 
@@ -19,7 +19,7 @@ Logo.surf is a free, user-friendly tool that allows you to quickly generate prof
 
 ## How to Use
 
-1. Visit [Logo.surf](https://www.logo.surf)
+1. Visit [texttologo](https://www.texttologo)
 2. Enter your desired text in the input field.
 3. Customize your logo using the available options (color, font, size, etc.).
 4. Preview your logo in real-time.
@@ -43,7 +43,7 @@ Check out our other tools and services:
 
 ## Contributing
 
-We welcome contributions to Logo.surf! If you'd like to contribute, please follow these steps:
+We welcome contributions to texttologo! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
